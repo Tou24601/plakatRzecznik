@@ -17,13 +17,13 @@ body {
 }
 .image {
     width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    background-image: url(IMG.jpg);
+    height: 270px;
+  border-radius: 5%;
+    background-image: url(IMGA.jpg);
     background-position: center;
     background-size: cover;
     box-shadow: 13px 16px 24px 0px rgba(25, 33, 113, 0.6);
-    margin: 0px 0px 18px 30px;
+    margin: 0px 0px 0px /*18px*/ 30px;
 }
 .points {
     margin-bottom: 20px;
