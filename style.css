@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(77, 164, 224);
+    color: beige;
+}
+.container {
+    margin: 20vh 20vw;
+    width: 650px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.image {
+    width: 200px;
+    aspect-ratio: 1 /1;
+    border-radius: 50%;
+    background-image: url(IMG.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.text {
+    width: 400px;
+}
+h1 {
+    font-size: 40px;
+    font-weight: 600;
+}
