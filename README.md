@@ -1,4 +1,4 @@
 # plakatRzecznik
 
-Simple HTML and CSS project, made for private purposes
-live preview: https://joannakolakowska-plakat.netlify.app/
+Simple HTML and CSS project, made for private purposes. 
+Live preview: https://joannakolakowska-plakat.netlify.app/
